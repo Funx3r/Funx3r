@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:FF2E9A,100:00F0FF&height=220&section=header&text=HEY%20I%27M%20NUGSS&fontSize=55&fontColor=FFFFFF&fontAlignY=40&desc=Backend%20%2F%20Fullstack%20Developer&descAlignY=65&descSize=20&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:FF2E9A,100:00F0FF&height=220&section=header&text=HEY%20I%27M%20Funx3r&fontSize=55&fontColor=FFFFFF&fontAlignY=40&desc=Backend%20%2F%20Fullstack%20Developer&descAlignY=65&descSize=20&animation=fadeIn" />
 
 <img src="https://img.shields.io/badge/D4_INFORMATICS_ENGINEERING-0D0D0D?style=for-the-badge&labelColor=00F0FF&color=0D0D0D" />
 <img src="https://img.shields.io/badge/POLITEKNIK_NEGERI_JAKARTA-0D0D0D?style=for-the-badge&labelColor=FF2E9A&color=0D0D0D" />
