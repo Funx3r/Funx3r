@@ -83,16 +83,12 @@
 ```
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Funx3r&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=FF2E9A&icon_color=00F0FF&text_color=FFFFFF" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Funx3r&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=FF2E9A&text_color=FFFFFF" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Funx3r&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=FF2E9A&icon_color=00F0FF&text_color=FFFFFF" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Funx3r&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=FF2E9A&text_color=FFFFFF" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Funx3r&theme=dark&hide_border=true&background=0D0D0D&ring=00F0FF&fire=FF2E9A&currStreakLabel=00F0FF" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Funx3r&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" />
 </p>
 
 <br>
