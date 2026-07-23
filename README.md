@@ -7,6 +7,10 @@
 
 <img src="https://komarev.com/ghpvc/?username=Funx3r&label=PROFILE+VIEWS&color=39FF14&style=for-the-badge" />
 
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00F0FF&background=0D0D0D00&center=true&vCenter=true&width=600&lines=BUILDING+ML%2FDL+SYSTEMS;BACKEND+%2F+FULLSTACK+DEV;OPEN+TO+SWE+INTERNSHIPS" />
+
 </div>
 
 <br>
@@ -41,7 +45,7 @@
 ```
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,py,flask,figma,git,github,vercel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,py,flask,figma,git,github,vercel,supabase&theme=dark" />
 </p>
 
 <br>
@@ -84,7 +88,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Funx3r&theme=dark&hide_border=true&background=0D0D0D&ring=00F0FF&fire=FF2E9A&currStreakLabel=00F0FF" />
+  <img src="https://streak-stats.demolab.com/?user=Funx3r&theme=dark&hide_border=true&background=0D0D0D&ring=00F0FF&fire=FF2E9A&currStreakLabel=00F0FF" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Funx3r&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" />
 </p>
 
 <br>
