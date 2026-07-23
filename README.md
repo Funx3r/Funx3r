@@ -27,7 +27,7 @@
 ## `>` TECH STACK
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,py,flask,figma,git,github,vercel,supabase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,py,flask,figma,git,github,vercel&theme=dark" />
 </p>
 
 <br>
