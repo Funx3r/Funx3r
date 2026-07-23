@@ -1,19 +1,17 @@
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blocks&color=0:000000,100:00A86B&height=220&section=header&text=HEY%20I%27M%20NUGSS&fontSize=55&fontColor=FFFFFF&fontAlignY=45&desc=Backend%20%2F%20Fullstack%20Developer&descAlignY=65&descSize=20&animation=fadeIn" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/D4_INFORMATICS_ENGINEERING-000000?style=for-the-badge&labelColor=00A86B&color=000000" />
-  <img src="https://img.shields.io/badge/POLITEKNIK_NEGERI_JAKARTA-000000?style=for-the-badge&labelColor=FFD100&color=000000" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00A86B&height=220&section=header&text=HEY%20I%27M%20NUGSS&fontSize=55&fontColor=FFFFFF&fontAlignY=40&desc=Backend%20%2F%20Fullstack%20Developer&descAlignY=60&descSize=20&animation=fadeIn" />
+
+<img src="https://img.shields.io/badge/D4_INFORMATICS_ENGINEERING-000000?style=for-the-badge&labelColor=00A86B&color=000000" />
+<img src="https://img.shields.io/badge/POLITEKNIK_NEGERI_JAKARTA-000000?style=for-the-badge&labelColor=FFD100&color=000000" />
+
+<img src="https://komarev.com/ghpvc/?username=Black&label=PROFILE+VIEWS&color=00A86B&style=for-the-badge" />
+
+</div>
 
 <br>
 
 ## `>` ABOUT ME
-
-<table>
-<tr>
-<td>
 
 ```txt
 > student.status      : D4 Informatics Engineering, PNJ
@@ -23,10 +21,6 @@
 > ask_me_about        : Web Development, ML/DL, System Design
 > contact             : rangga.fabiano.fr@gmail.com
 ```
-
-</td>
-</tr>
-</table>
 
 <br>
 
@@ -48,15 +42,24 @@
   </tr>
   <tr>
     <td><b>VENTARA</b></td>
-    <td>Wind Power forecasting platform predicting weather-driven energy output, built with BRIN. 7-day ahead forecast via XGBoost + LSTM ensemble.</td>
+    <td>Wind power forecasting platform predicting weather-driven energy output, built with BRIN. 7-day-ahead forecast via XGBoost + LSTM ensemble.</td>
     <td><code>Flask</code> <code>Python</code> <code>ML</code> <code>Supabase</code> <code>Hugging Face</code></td>
   </tr>
   <tr>
     <td><b>SIMJUR</b></td>
-    <td>Financial information system prototype to digitalize submission & approval of departmental financial documents (TOR & LPJ).</td>
+    <td>Financial information system prototype to digitalize submission &amp; approval of departmental financial documents (TOR &amp; LPJ).</td>
     <td><code>React.js</code> <code>TypeScript</code> <code>Tailwind CSS</code></td>
   </tr>
 </table>
+
+<br>
+
+## `>` GITHUB STATS
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nugss&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00A86B&icon_color=00A86B&text_color=FFFFFF" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nugss&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00A86B&text_color=FFFFFF" />
+</p>
 
 <br>
 
@@ -77,6 +80,4 @@
   </a>
 </p>
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=blocks&color=0:00A86B,100:000000&height=100&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A86B,100:000000&height=100&section=footer&animation=fadeIn" />
