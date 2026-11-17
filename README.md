@@ -9,7 +9,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00F0FF&background=0D0D0D00&center=true&vCenter=true&width=600&lines=BUILDING+ML%2FDL+SYSTEMS;BACKEND+%2F+FULLSTACK+DEV;OPEN+TO+SWE+INTERNSHIPS" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00F0FF&background=0D0D0D00&center=true&vCenter=true&width=600&lines=BUILDING+ML%2FDL+SYSTEMS;FRONTEND+%2F+DEV;OPEN+TO+SWE+INTERNSHIPS" />
 
 </div>
 
